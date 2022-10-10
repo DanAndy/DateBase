@@ -14,4 +14,5 @@
 
 7)30.09.22  база данных STEPIK https://docs.google.com/document/d/1wIlonwHTfqB9nT8IhM7eEYHxTCwkcsEWhCw8CEElU3o/edit?usp=drivesdk
 
+8) БД ВИДЕО https://drive.google.com/file/d/1VCh8GrZSwfk8qv8ckjBMQbEeB5GCtwK8/view?usp=sharing
 
