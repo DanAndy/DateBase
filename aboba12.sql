@@ -1,0 +1,1 @@
+SELECT * FROM fitnes_centre_popov.polzovatel;
