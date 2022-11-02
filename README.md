@@ -19,3 +19,5 @@
 9)БД видео 2 часть https://drive.google.com/file/d/18B7ESItBpU12Da9KJPuqh3l-UZGa1mWR/view?usp=sharing
 
 10)БД диаграмма https://docs.google.com/document/d/1gAWn8tjbgxbnd-PV_NqRXHn-HS1vJzvKnF9r46CN5_U/edit?usp=drivesdk
+
+11)Запросы на выборку https://docs.google.com/document/d/1LEAkng3H_uZH8IlDSXqzljIZNB6DzBDbDORqdvXe5rM/edit?usp=sharing
