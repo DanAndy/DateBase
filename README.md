@@ -21,3 +21,5 @@
 10)БД диаграмма https://docs.google.com/document/d/1gAWn8tjbgxbnd-PV_NqRXHn-HS1vJzvKnF9r46CN5_U/edit?usp=drivesdk
 
 11)Запросы на выборку https://docs.google.com/document/d/1LEAkng3H_uZH8IlDSXqzljIZNB6DzBDbDORqdvXe5rM/edit?usp=sharing
+
+12) https://docs.google.com/spreadsheets/d/1Ji8pA_tskI71fWmfQMFDoSqDGRpF7jgS/edit?usp=share_link&ouid=114987831998259542559&rtpof=true&sd=true
