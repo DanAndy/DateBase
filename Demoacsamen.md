@@ -1,5 +1,5 @@
-https://docs.google.com/document/d/1MKywckfbWW3DajUtOCVU3XZNKOG-0hAM7InpPAI0ytg/edit?usp=drivesdk
+Конспект  https://docs.google.com/document/d/1MKywckfbWW3DajUtOCVU3XZNKOG-0hAM7InpPAI0ytg/edit?usp=drivesdk
 
-https://docs.google.com/spreadsheets/d/1Rw-D3kh0QwZ3FdrN08glR4bvdymCkf_xfuGbY4ook4o/edit?usp=sharing
+Таблица1  https://docs.google.com/spreadsheets/d/1Rw-D3kh0QwZ3FdrN08glR4bvdymCkf_xfuGbY4ook4o/edit?usp=sharing
 
-https://docs.google.com/spreadsheets/d/1vqqvbYK03CQNFzYgsLMTtVw5tWqp_i3e/edit?usp=sharing&ouid=117122447762024203041&rtpof=true&sd=true
+Таблица2  https://docs.google.com/spreadsheets/d/1vqqvbYK03CQNFzYgsLMTtVw5tWqp_i3e/edit?usp=sharing&ouid=117122447762024203041&rtpof=true&sd=true
