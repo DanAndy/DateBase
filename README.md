@@ -27,3 +27,5 @@
 13) SQLITE https://docs.google.com/document/d/10I93ygwtq7C866zCF7qkdiFqE1EAzS6PwjUsZxB7RWs/edit?usp=sharing
 
 14)https://docs.google.com/spreadsheets/d/1GTQ5TTy41Cbr65Xo3klrovWcpokntb1u/edit?usp=sharing&ouid=117122447762024203041&rtpof=true&sd=true
+
+15) learn school https://docs.google.com/document/d/17N0yfudfAt6t8b4hGOpIuQPo7Igo66PWhh5tIyUtMzI/edit?usp=drivesdk
