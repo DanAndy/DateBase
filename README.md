@@ -29,3 +29,5 @@
 14)https://docs.google.com/spreadsheets/d/1GTQ5TTy41Cbr65Xo3klrovWcpokntb1u/edit?usp=sharing&ouid=117122447762024203041&rtpof=true&sd=true
 
 15) learn school https://docs.google.com/document/d/17N0yfudfAt6t8b4hGOpIuQPo7Igo66PWhh5tIyUtMzI/edit?usp=drivesdk
+
+16) Установка Mysql https://docs.google.com/document/d/1S6tLzEL5fAzXRYPmgwYbaM46lAVpHf6ApQhM0BaBrxQ/edit?usp=sharing
