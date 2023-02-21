@@ -31,3 +31,5 @@
 15) learn school https://docs.google.com/document/d/17N0yfudfAt6t8b4hGOpIuQPo7Igo66PWhh5tIyUtMzI/edit?usp=drivesdk
 
 16) Установка Mysql https://docs.google.com/document/d/1S6tLzEL5fAzXRYPmgwYbaM46lAVpHf6ApQhM0BaBrxQ/edit?usp=sharing
+
+17) https://docs.google.com/document/d/1jXwSvgCiJEXrMnMsu7QITB-OS8m3Mh_eqawIbF85wYU/edit?usp=sharing
