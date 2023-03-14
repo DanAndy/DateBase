@@ -33,3 +33,5 @@
 16) Установка Mysql https://docs.google.com/document/d/1S6tLzEL5fAzXRYPmgwYbaM46lAVpHf6ApQhM0BaBrxQ/edit?usp=sharing
 
 17) https://docs.google.com/document/d/1jXwSvgCiJEXrMnMsu7QITB-OS8m3Mh_eqawIbF85wYU/edit?usp=sharing
+
+18) https://docs.google.com/document/d/123dRxU7_hQYuFt2U08UAI_Dj48MnXIW9hu2TjyHi45s/edit?usp=sharing
