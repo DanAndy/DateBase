@@ -35,3 +35,8 @@
 17) https://docs.google.com/document/d/1jXwSvgCiJEXrMnMsu7QITB-OS8m3Mh_eqawIbF85wYU/edit?usp=sharing
 
 18) https://docs.google.com/document/d/123dRxU7_hQYuFt2U08UAI_Dj48MnXIW9hu2TjyHi45s/edit?usp=sharing
+
+19) Автосервис 
+    https://docs.google.com/spreadsheets/d/1hJt-0xodaNICsKE1Qg15P8hvyvyNvkZ3dHUxvxMut1c/edit?usp=sharing
+    https://docs.google.com/document/d/1LLD8befJgXNA-ATwgr3Me3og7wiMokKKuuMeEtoljSE/edit?usp=sharing
+    
