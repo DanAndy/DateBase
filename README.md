@@ -40,3 +40,4 @@
     https://docs.google.com/spreadsheets/d/1hJt-0xodaNICsKE1Qg15P8hvyvyNvkZ3dHUxvxMut1c/edit?usp=sharing
     https://docs.google.com/document/d/1LLD8befJgXNA-ATwgr3Me3og7wiMokKKuuMeEtoljSE/edit?usp=sharing
     
+https://docs.google.com/document/d/1UZ_mIY3lMZ21fUw48avPpJ91CAUI7lchMjBXiRuYiTU/edit?usp=drivesdk
